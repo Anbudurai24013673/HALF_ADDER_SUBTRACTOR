@@ -54,7 +54,7 @@ Figure -02 HALF Subtractor
 
 Developed by:ANBUDURAI.A 
 
-RegisterNumber:24013673
+RegisterNumber:212224230018
 */
 
 ```
@@ -94,3 +94,4 @@ endmodule
 ![Screenshot 2024-12-10 144348](https://github.com/user-attachments/assets/c48c1527-65ab-44ed-a2d6-f6ea32895fe7)
 
 **Result:**
+The code is excecuted successfully.
